@@ -1,0 +1,3 @@
+# Soft dependencies extracted from modules themselves.
+softdep sec_ese_power pre: sec_nfc
+softdep sec_nfc post: sec_ese_power

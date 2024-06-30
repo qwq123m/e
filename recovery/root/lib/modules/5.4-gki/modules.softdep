@@ -1,0 +1,4 @@
+# Soft dependencies extracted from modules themselves.
+softdep sec_ese_power pre: sec_nfc
+softdep pinctrl_msm pre: qcom-pdc
+softdep sec_nfc post: sec_ese_power

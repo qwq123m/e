@@ -1,0 +1,20 @@
+/lib/modules/bbk_drivers_info.ko:
+/lib/modules/hall_sensor.ko:
+/lib/modules/sar_power.ko: /lib/modules/sarpower_class.ko
+/lib/modules/stmvl53l1.ko:
+/lib/modules/vivo_spi_ir.ko:
+/lib/modules/ufshcd-vivo-core.ko:
+/lib/modules/vivo_bsp_engine.ko:
+/lib/modules/vkyber-iosched.ko:
+/lib/modules/nfc_i2c.ko:
+/lib/modules/tz_log.ko:
+/lib/modules/sarpower_class.ko:
+/lib/modules/leds-lm3644.ko:
+/lib/modules/vivo_pwm_ir.ko:
+/lib/modules/vr.ko:
+/lib/modules/sec_ese_power.ko: /lib/modules/sec_nfc.ko /lib/modules/vivo_bsp_engine.ko
+/lib/modules/msm_drm.ko: /lib/modules/vivo_bsp_engine.ko
+/lib/modules/bbk_card_detect.ko: /lib/modules/bbk_drivers_info.ko
+/lib/modules/tmf8801.ko:
+/lib/modules/bfq.ko:
+/lib/modules/sec_nfc.ko: /lib/modules/vivo_bsp_engine.ko
